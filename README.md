@@ -12,5 +12,9 @@ papers.xlsx中存储有需要下载的论文详细，从[sci-hub](http://sci-hub
 - crawler.py负责从papers.txt中读取paper title，爬取相应pdf文件后以paper id命名，并保存到download文件夹。
 其中，对于可以下载到的论文记录其信息到download.txt，无法下载到的论文记录其信息到notdownload.txt
 - crawler.py中对于验证码的处理方法是当检查到网页中出现验证码时，声音警报提醒用户手动输入 
-- 针对爬虫速度慢的问题，下一步改进可以从多线程多进程入手。 
+- 针对爬虫速度慢的问题，下一步改进可以从多线程多进程入手。
 
+
+## 最最最重要的事 
+[sci-hub](http://sci-hub.cc/)是目前最大的提供免费的付费学术论文的网站，其坚持“remove all barriers in the way of science“。
+所以请不要随意爬取他们的网站，以免给服务器造成过大压力。如确有必要，可以直接给他们捐款。
