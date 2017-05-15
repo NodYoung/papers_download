@@ -1,0 +1,200 @@
+B-53 WOS_000397419900028,Perfect monochromatic acoustic anti-reflection: A first-principles study
+B-28 WOS_000395698600065,Improved Watershed Segmentation with Optimal Scale Based on Ordered Dither Halftone and Mutual Information
+B-34 WOS_000393844800098,A Simple Visualization Method to Assign Point for Parallel Coordinates
+B-27 WOS_000393420900051,The Influencing Factors of Knowledge Sharing Behavior on College Students in Virtual Communities
+B-27 WOS_000393420900048,Research on the Cross-System Collaboration Model of E-Government in China: From the Perspective of System Elements
+B-26 WOS_000393154200011,Big Data Knowledge Service Framework based on Knowledge Fusion
+B-25 WOS_000393087400073,Discussion of Link-based Web Page Ranking
+B-53 WOS_000392835300055,Perfect absorption of low-frequency sound waves by critically coupled subwavelength resonant system
+B-53 WOS_000392834600017,Mathematical operations for acoustic signals based on layered labyrinthine metasurfaces
+B-98 WOS_000392719200022,Research on Enterprises' Innovation Performance in University-Industry-Government Networks Based on Absorptive Capacity
+B-98 WOS_000392719200019,Modeling and Simulation of the Inter-Organizational Knowledge Transfer Impact Factors in Industrial Clusters
+B-40 WOS_000392251800181,The calculation and suppression of the AC Grid DC bias current under the monopole operation of UHVDC system
+B-25 WOS_000391516000135,Research on Implementation of Thesauri-Ontology Evolution System
+B-31 WOS_000391474000007,Amplitude Analysis of the Decays eta ' -> pi(+)pi(-)pi(0) and eta' -> pi(0)pi(0)pi(0)
+B-28 WOS_000390842000050,The Influence Factors and Effect Mechanism of Regional Talent Quality - Analysis Based on Multilevel Structure Equation Model
+B-40 WOS_000390840300054,Study on Postgraduates' Psychology in Job Hunting
+B-26 WOS_000390176700017,An Architecture for Healthcare Big Data Management and Analysis
+B-26 WOS_000390176700016,Study on Intelligent Home Care Platform Based on Chronic Disease Knowledge Management
+B-69 WOS_000390087500005,Doctoral Dissertations on Tourism in China: A Co-Word Analysis
+B-17 WOS_000390087500003,Classical Music Recording Ontology Used in a Library Catalog
+B-27 WOS_000389905100041,Open Access and Academic Influence Mechanism Analysis
+B-31 WOS_000389505100001,Measurements of the absolute branching fractions for D-s(+) -> eta e(+)nu(e) and D-s(+) -> eta ' e(+)nu(e)
+B-17 WOS_000389502300011,Research on the Follow-up Actions of College Students' Mobile Search
+B-47 WOS_000389158800010,The Role of Service-provider's Attributes in Sharing Economy: a Data-driven Study from the Perspective of Trust
+B-31 WOS_000389144400002,Measurement of the absolute branching fraction of D-vertical bar -> (K)over-bar(0)e(vertical bar) nu(e) via (K)over-bar(0) -> pi(0)pi(0)
+B-31 WOS_000389032600001,Measurement of Singly Cabibbo Suppressed Decays Lambda(+)(c) -> p pi(+)pi(-) and Lambda(+)(c) -> pK(+)K(-)
+B-30 WOS_000389020100010,Mining Arbitrary Shaped Clusters and Outputting a High Quality Dendrogram
+B-40 WOS_000388114602113,EXTRACT SEISMIC DEFORMATION FIELD USING CHINESE OPTICAL SATELLITES
+B-25 WOS_000387211700006,Marketing via Micro-film in Chinese Academic Libraries
+B-53 WOS_000387100400086,Preparation and Photoelectrochemical Properties of CdS Nanoparticles Using Supercritical Carbon Dioxide
+B-53 WOS_000387100400011,Cysteine-Modified Graphene/Gold Nanorod Composites Toward Rhodamine 6G Detection by Surface-Enhanced Raman Scattering
+B-40 WOS_000386142900003,Preparation, evaluation, and application of a novel reversed-phase/zwitterionic/hydrophilic interaction liquid chromatographic mixed-mode stationary phase
+B-36 WOS_000386102200171,The Principles and Implementations Strategy by Automobile Industrial Heritage Protection of Shiyan, China
+B-31 WOS_000385633400001,Observation of J/psi -> gamma eta pi(0)
+B-31 WOS_000385632500002,Measurement of the Ds<(+)-> l(+)ve branching fractions and the decay constant fDs+
+B-52 WOS_000385610400078,Noninvasive chromosome screening of human embryos by genome sequencing of embryo culture medium for in vitro fertilization
+B-40 WOS_000385553100030,Overexpression of Ribosomal RNA in the Development of Human Cervical Cancer Is Associated with rDNA Promoter Hypomethylation
+B-53 WOS_000384227700025,An acoustic Maxwell's fish-eye lens based on gradient-index metamaterials
+B-90 WOS_000383602000009,Optimization of the subject directory in a government agriculture department web portal
+B-28 WOS_000382952700009,Profiling users with tag networks in diffusion-based personalized recommendation
+B-23 WOS_000382200100028,Exploring the adoption of digital libraries in the mobile context: The effect of psychological factors and mobile context factors
+B-31 WOS_000380961000002,Study of D+ -> K-pi(+)e(+)nu(e)
+B-36 WOS_000380527200073,The Principles and Implementations Strategy by Automobile Industrial Heritage Protection-Take an Example of SHIYAN, China
+B-11 WOS_000380499700204,Improvement and Empirical Research on Journal's First-Citation-Speed-Index
+B-64 WOS_000380499700171,Measuring the Competitive Pressure of Academic Journals and the Competitive Intensity within Subjects
+B-33 WOS_000380499700169,Evolutionary Analysis of Collaboration Networks in Scientometrics
+B-111 WOS_000380499700140,A Technology Foresight Model: Used for Foreseeing Impelling Technology in Life Science
+B-111 WOS_000380499700131,A SAO-based Approach for Technology Evolution Analysis Using Patent Information: A Case Study on Graphene Sensor
+B-51 WOS_000380499700028,Differences in Received Citations over Time and Across Fields in China
+B-51 WOS_000380499700020,Stratifying Altmetrics Indicators Based On Impact Generation Model
+B-58 WOS_000380403800046,Research of Application of mHealth Based on Web2.0
+B-50 WOS_000380377700034,Study of Copyright Protection for Merchandise Pictures in E-Commerce
+B-52 WOS_000380277700007,How Online Consumer Reviews Affect Our Choice?
+B-35 WOS_000380261700006,Research on the Information Integration and Efficiency Performance of "Chinese Government Public Information Online"
+B-17 WOS_000379718600004,Adaptive Laplacian Eigenmap-Based Dimension Reduction for Ocean Target Discrimination
+B-51 WOS_000379618200005,Herdan-Heaps Law Corresponds to Lotka's Law: A Dynamic Perspective from Simon's Model
+B-53 WOS_000378663800031,Efficient Magnetic Resonance Amplification and Near-Field Enhancement from Gain-Assisted Silicon Nanospheres and Nanoshells
+B-16 WOS_000378430700003,Role Expectations in Public Digital Cultural Resources Integration Projects
+B-95 WOS_000377811000012,An efficient trust negotiation strategy towards the resource-limited mobile commerce environment
+B-28 WOS_000377434300048,Effective utilisation of JND for spatial parameters quantisation in 3D multichannel audio
+B-56 WOS_000376264000014,y Science Communication and Dissemination in Different Cultures: An Analysis of the Audience for TED Videos in China and Abroad
+B-48 WOS_000375924200002,Premartensitic transition and relevant magnetic effects in Ni50Mn34In15.5Al0.5 alloy
+B-28 WOS_000375767400016,Enhancing Subject Metadata with Automated Weighting in the Medical Domain: A Comparison of Different Measures
+B-52 WOS_000374642800001,Blastomere removal from cleavage-stage mouse embryos alters placental function, which is associated with placental oxidative stress and inflammation
+B-31 WOS_000374548000001,Search for the weak decay eta ' -> K-+/-pi(-/+) and precise measurement of the branching fraction B(J/psi -> phi eta ')
+B-40 WOS_000373201300129,Status Analysis of Development and Cultivation of Chinese Undergraduate Party Members
+B-48 WOS_000372391500051,Highly Selective Detection of 5-Methylcytosine in Genomic DNA Based on Asymmetric PCR and Specific DNA Damaging Reagents
+B-37 WOS_000372351900014,Phase transition and critical behaviors of spin-orbital coupling spinel compound CdV2O4
+B-114 WOS_000371799600002,A Knowledge Management Framework for the Community of Collaborative Innovation
+B-24 WOS_000370550100007,Understanding the factors influencing user experience of social question and answer services
+B-53 WOS_000370365103197,Biomarker Analyses from a Phase II Trial of Nab-Paclitaxel/Carboplatin vs Emcitabine/Carboplatin in Advanced Squamous Cell Lung Cancer
+B-40 WOS_000369013400065,Earthquake monitoring for multi-temporal images of Ziyuan-3
+B-37 WOS_000368455100063,Phase transition and critical behavior of spin-orbital coupled spinel ZnV2O4
+B-40 WOS_000368371300006,Multi-view Sparse Embedding Analysis Based Image Feature Extraction and Classification
+B-37 WOS_000365948500043,A New Similarity Measure Between Semantic Trajectories Based on Road Networks
+B-28 WOS_000365865600004,A new combination classification of pixel- and object-based methods
+B-23 WOS_000365184300005,Comparing digital libraries in the web and mobile contexts from the perspective of the digital divide
+B-53 WOS_000365178900037,Tuning Photoluminescence Performance of Monolayer MoS2 via H2O2 Aqueous Solution
+B-28 WOS_000365130100001,Using the comprehensive patent citation network (CPC) to evaluate patent value
+B-73 WOS_000364182100010,Trends and Research of Wikis' Quality and Governance Based on Bibliometric and Content Analysis
+B-36 WOS_000363784300133,The Analysis of Chinese Intangible Cultural Heritage Archive List
+B-37 WOS_000363325200083,Growth and characterization of CaCu3Ru4O12 single crystal
+B-30 WOS_000362778200001,A Novel Computational Method to Reduce Leaky Reaction in DNA Strand Displacement
+B-111 WOS_000361173400004,Stock Market Interdependence and Contagion: Evidence from BRICS Stock Returns
+B-36 WOS_000361124400082,The Archives Management of Intangible Heritage Representative List
+B-53 WOS_000358613204147,A phase II trial of first-line nab-paclitaxel/carboplatin versus gemcitabine/carboplatin in advanced squamous cell carcinoma of the lung (CTONG1002)
+B-40 WOS_000358572100193,Coordination of Dynamic Lightning Protection and Smart Grids State Estimation
+B-126 WOS_000357859500009,Government Participation in Digital Copyright Licensing in the Cloud Computing Environment
+B-50 WOS_000357482800031,A Research of Taobao Cheater Detection
+B-24 WOS_000357482800008,E-Loyalty Building in Competitive E-Service Market of SNS: Resources, Habit, Satisfaction and Switching Costs
+B-37 WOS_000355695600048,Magnetic property and electronic structure of BaFe4-xTi2+xO11
+B-51 WOS_000353961700246,VISUALIZING THE RESEARCH DOMAIN ON SCIENTOMETRICS (1978-2012)
+B-30 WOS_000353961700245,A VISUALIZATION TOOL FOR TOPIC EVOLUTION AMONG RESEARCH FIELDS
+B-64 WOS_000353961700241,REGULARITY IN THE TIME-DEPENDENT DISTRIBUTION OF THE PERCENTAGE OF UNCITED ARTICLES: AN EMPIRICAL PILOT STUDY BASED ON THE SIX JOURNALS
+B-56 WOS_000353961700222,A QUANTITATIVE ANALYSIS OF ANTARCTIC RELATED ARTICLES IN HUMANITIES AND SOCIAL SCIENCES APPEARING IN THE WORLD CORE JOURNALS
+B-51 WOS_000353961700192,HEAPS' LAW: A DYNAMIC PERSPECTIVE FROM SIMON'S MODEL
+B-33 WOS_000353961700058,EXTENDING AUTHOR CO-CITATION ANALYSIS TO USER INTERACTION ANALYSIS: A CASE STUDY ON INSTANT MESSAGING GROUPS
+B-51 WOS_000353961700027,COMPARATIVE STUDY ON STRUCTURE AND CORRELATION AMONG BIBLIOMETRICS CO-OCCURRENCE NETWORKS AT AUTHOR-LEVEL
+B-33 WOS_000353961700006,THE ANALYSIS OF RESEARCH THEMES OF OPEN ACCESS IN CHINA: IN THE PERSPECTIVE OF STRATEGIC DIAGRAM (RIP)
+B-124 WOS_000352920200059,The Research on Recovery for the Shrinkage of the Film
+B-95 WOS_000352369900001,A Pseudo-Parallel Genetic Algorithm Integrating Simulated Annealing for Stochastic Location-Inventory-Routing Problem with Consideration of Returns in E-Commerce
+B-114 WOS_000351503500007,A Knowledge Management Framework for the Effective Integration of National Archive Resources in China
+B-23 WOS_000350818600008,Advertising value and credibility transfer: attitude towards web advertising and online information acquisition
+B-50 WOS_000348780200003,INFORMATION SERVICE CONTINUED USE MODEL: BASED ON COMPETITION VIEW
+B-24 WOS_000347625300037,Social question and answer services versus library virtual reference: evaluation and comparison from the users' perspective
+B-27 WOS_000346575400003,User satisfaction evaluation of microblogging services in China: using the tetra-class model
+B-24 WOS_000345508900003,Social Q&As or Library Virtual Reference Service: What is Behind the Choices of Chinese Information Seekers?
+B-37 WOS_000345352500008,Investigations of the coupling of spin-orbital in MgTi2O4 by the magnetic entropy measurements
+B-95 WOS_000345178500081,Model and Algorithm for Closed-loop Logistics System Considering Time-satisfaction Degree and Returns under E-commerce Environment
+B-95 WOS_000344698700001,A Two-Stage Algorithm for the Closed-Loop Location-Inventory Problem Model Considering Returns in E-Commerce
+B-40 WOS_000342838500060,LSG: A Unified Multi-dimensional Latent Semantic Graph for Personal Information Retrieval
+B-114 WOS_000342671500003,Knowledge Management in Support of Collaborative Innovation Community Capacity Building
+B-118 WOS_000342666600004,Electronic records preservation in China - An exploratory inquiry
+B-37 WOS_000342388500034,Transport Behavior in Spinel Oxide MgTi2O4
+B-40 WOS_000341633700143,A SVM-based Compound-word Recognition Method in Information Security
+B-53 WOS_000341479000025,Reconstructed imaging of acoustic cloak using time-lapse reversal method
+B-114 WOS_000340893200071,Legal Requirements for Effective Personal Information Protection through Information Resources Management for Chinese Public Services
+B-25 WOS_000340489200023,Discussion about Cloud Service Framework for the Fourth Paradigm of Science
+B-31 WOS_000338642100002,Measurement of the branching fraction for psi(3686) -> omega K+K-
+B-53 WOS_000335419602523,A phase II trial comparing pemetrexed with gefitinib as the second-line treatment of nonsquamous NSCLC patients with wild-type EGFR (CTONG0806).
+B-25 WOS_000334904100004,Construction and Evolution of a Chinese Information Science and Information Service (CIS&IS) Onto-Thesaurus
+B-55 WOS_000333645100004,Study on the Framework of e-Government Services Capability: An Empirical Investigation
+B-31 WOS_000333188400014,Study on Global Cloud Computing Research Trend
+B-68 WOS_000331270100001,A progress on the shifted power function for modeling informetric laws
+B-55 WOS_000328743400017,Conceptualizing and Examining E-Government Service Capability: A Review and Empirical Study
+B-36 WOS_000327937000115,The Development and Trends Of China's Intangible Cultural Heritage Representative List
+B-30 WOS_000327937000013,The City Competitive Analysis of Poyang Lake Ecological Economic Zone Based On AHP Analytic Hierarchy Process
+B-36 WOS_000327726600166,The Metadata Standards of Chinese Intangible Cultural Heritages
+B-32 WOS_000327726600164,Social Media Research Analysis of China Based on Informetrics
+B-36 WOS_000326458100020,The Development Analysis of Chinese Intangible Cultural Heritage Representative List
+B-36 WOS_000326246200053,The Framework and Standards of Chinese Intangible Cultural Heritage Metadata
+B-68 WOS_000324717100003,Modelling Continuous Percentile Rank Scores and Integrated Impact Indicators (I3)
+B-46 WOS_000324569000037,The moderating effect of product knowledge and product involvement on online information search behavior
+B-69 WOS_000324371900101,Is electronic prescription essential for hospitals?
+B-47 WOS_000323642200002,Maximizing the performance of advertisements diffusion: A simulation study of the dynamics of viral advertising in social networks
+B-88 WOS_000321693000065,A Grounded Theory of Government Website Promotion
+B-32 WOS_000320939300103,An Information Resource Integration Method for Enterprise Decision-making
+B-31 WOS_000320609000002,Search for the lepton flavor violation process J/psi -> e mu at BESIII
+B-119 WOS_000318886700047,Study on the Independent Technological Innovation Model of Information Service Enterprises in China
+B-99 WOS_000318886700021,Service Mode of Competitive Technical Intelligence Based on KPO
+B-90 WOS_000318886700011,The Influence Factors and Measures that H Index Evaluates the Academic Achievement
+B-30 WOS_000318886700007,Design and Implementation of Organization-oriented Web Public Opinion Monitoring System
+B-126 WOS_000318886700004,Web Competitive Technology Intelligence Monitoring
+B-28 WOS_000318886700003,Research on Information Diffusion in Network Media-Based on Typical Event
+B-87 WOS_000318886700002,The CTI Strategy of Enterprise in Dynamic and Complex Competitive Environment
+B-31 WOS_000318886700001,Research on Patent Analysis Framework for Enterprise Technology Innovation
+B-53 WOS_000318009804272,Final overall survival and updated biomarker analysis results from the randomized phase III ICOGEN trial.
+B-55 WOS_000316788900016,Sustainable Growth in China's Communications Field: Trend Analysis of Impact of China's Academic Publications
+B-73 WOS_000316156900056,A Conceptual Model for Participant's Motivation in Crowdsourcing Contest
+B-31 WOS_000315737200002,Measurements of the branching fractions for J/psi and psi ' -> Lambda(Lambda)over-bar pi(0) and Lambda(Lambda)over-bar eta
+B-25 WOS_000314663600112,Searching Semantic Relation Paths using an RDF Digraph Retrieval Model
+B-25 WOS_000314663600110,Enquiring Semantic Relations among RDF Triples
+B-10 WOS_000313060900013,An Empirical Study of China's High-Tech Industry Innovation Capability in Transition
+B-31 WOS_000313032500001,Observation of eta(c) decay into Sigma(+)(Sigma)over-bar(-) and (sic)(-)((sic))over bar (+) final states
+B-48 WOS_000312651300029,Research on ecosystem evolution of Mobile E-Commerce
+B-31 WOS_000311660900001,Measurement of J/psi decays into Lambda(Lambda)over-bar pi(+)pi(-)
+B-114 WOS_000310937400006,Technology Road Mapping Method Combined Requirements-Pull with Technology-Push Analysis
+B-25 WOS_000310815600093,Analysis on the Development of Knowledge Base for the Information Resources Cloud
+B-31 WOS_000310260400003,Experimental study of psi ' decays to K+K- pi(0) and K+K-eta
+B-120 WOS_000310253400023,Research on Performance Management Strategies for Public Hospitals: Based on the Perspective of Stakeholder Orientation
+B-120 WOS_000310253400015,Research on the Impact Path and Strategies of Technology Diffusion for Information Resource Industry
+B-95 WOS_000309483000115,Complete Information Dynamic Game Analysis in Tacit Knowledge Sharing Process within Modern Companies
+B-100 WOS_000309483000115,Complete Information Dynamic Game Analysis in Tacit Knowledge Sharing Process within Modern Companies
+B-95 WOS_000309483000099,Research on dynamic location problem model and algorithm of distribution centers
+B-33 WOS_000309383700113,Visual Analysis on the Research of Oil Crop
+B-49 WOS_000308510100012,An Integrated Approach for Developing Online Recommender System for Retail Commodity Shopping in B2C E-commerce
+B-31 WOS_000308318500048,A Partial Information Sharing Incentive Pricing Model with Demand Uncertainty in Dual-Channel Supply Chain
+B-17 WOS_000307293300013,Multilingual Resources and Services in Chinese Academic Libraries: A Survey
+B-58 WOS_000306259000039,An Entailment-Based Question Answering System over Semantic Web Data
+B-33 WOS_000305337100148,Visualization analysis of the evolution of indexing and the subject migration-based on the view of internationalization
+B-111 WOS_000305337100147,An Empirical Test of the Evaluation Model on Core Patent Documents
+B-72 WOS_000305337100146,Scientometric Analysis of Materials' Highly Cited Papers(1979-2008)
+B-51 WOS_000305337100133,Study on the Relationships between Citation and Collaboration
+B-111 WOS_000305337100132,A Method to Reveal the Research Domains of Different Institutions-the Macro and Micro Features
+B-111 WOS_000305337100101,Patent Assignees' Collaboration Evolution Networks of CAS, China
+B-51 WOS_000305337100088,Author Co-citation Analysis of Information Science in China based on the CSSCI
+B-51 WOS_000305337100073,Visualization analysis of research frontier and development trend in the branches of library information and archival science
+B-51 WOS_000305337100072,A Study on the Scientific Research Collaboration Network of "985 Project" Universities in China
+B-29 WOS_000305114901235,Wiki-based Digital Libraries Information Services in China and Abroad
+B-32 WOS_000305114900071,A Integration Method of Competitive Intelligence and Knowledge Management System for Corporate Decision-making
+B-34 WOS_000304720100456,Research on Supervision Mechanism of Government Information Service Outsourcing
+B-114 WOS_000304696000004,Toward a Meta-Synthesis Support System for Reuse of Government Information Resource on City Travel And Traffic: Knowledge Asset Management Approaches for Beijing
+B-17 WOS_000303842600001,Multilinguality in digital libraries
+B-28 WOS_000303072400008,Adaptive Watershed Segmentation of Remote Sensing Image Based on Wavelet Transform and Fractal Dimension
+B-30 WOS_000302888300242,A numerical sensitivity analysis to bentonite parameters for a long term geochemical evolution of a HLW repository in clay
+B-60 WOS_000302398400107,Automatic Identification of Parallel Structure Based on Conditional Random Field
+B-27 WOS_000299738702044,Acute Myocardial Ischemia Results in Renal Dysfunction via Systemic and Local Inflammation and Oxidant Stress, and LOX-1 Abrogation Attenuates This Phenomenon
+B-41 WOS_000298265200043,Simulation Study on the Formation and Evolution of Knowledge Transfer Network
+B-25 WOS_000293148000109,Discusses of user interest model in Personalized Search
+B-72 WOS_000291968100001,Chinese scientific and technical information institutions: Development and perspective
+B-58 WOS_000291373000032,An Ontology-based Question Answering Method with the Use of Textual Entailment
+B-72 WOS_000291328800064,A Review of Information Acquisition Based on Information Foraging Theory
+B-5 WOS_000291328400049,A Method of Competitiveness Evaluation for Foreign Competitors of Wind Turbine Manufacturing Industry in China Market
+B-72 WOS_000290738400051,The Effect of Open Access Journals on Citation Impact: A Citation Analysis of Open Access Journals Using Google Scholar
+B-17 WOS_000290060700053,Effective Training for College Librarian on Multilingual Information Service
+B-17 WOS_000290060700052,Multilingual Information Service Platform for University Digital Library
+B-42 WOS_000289709900001,The Simulation of Pressurized Water Reactor NPP Physical Process
+B-28 WOS_000289612900037,Adaptive Seeded Region Growing for Image Segmentation Based on Edge Detection, Texture Extraction and Cloud Model
+B-52 WOS_000289501800041,Classifier-guided topical crawler: a novel method of automatically labeling the positive URLs
+B-120 WOS_000287959400051,Government Website Experiential Marketing Based on City Brand
